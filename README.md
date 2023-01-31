@@ -3,5 +3,4 @@ Virtual reality campus tour is an application that helps student (both new and i
 
 Virtual reality campus tour was made with 360 images of all major classrooms and offices in the bayou building which were taken using Google Street View. To provide the information we have used video over lay, for the interaction with the UI elements in the virtual environment we have implemented a timed gaze input.
 
-Demo
-[a link]https://www.youtube.com/watch?v=BOWjYIYRdsY&t=6s
+Demo: https://www.youtube.com/watch?v=BOWjYIYRdsY&t=6s
